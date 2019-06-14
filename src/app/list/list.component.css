@@ -8,3 +8,9 @@
 h2 {
   border-bottom: 1px solid lightgray;
 }
+
+.provider-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
